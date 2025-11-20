@@ -1,0 +1,20 @@
+Python 3.x
+Text dataset (positive, negative, neutral labels)
+Jupyter Notebook or any Python editor
+NumPy
+Pandas
+Matplotlib / Seaborn
+NLTK or spaCy
+scikit-learn
+TensorFlow / Keras / PyTorch (if using deep learning)
+Regex (for text cleaning)
+Pickle / Joblib (for saving model)
+Minimum 4GB RAM (8GB recommended)
+64-bit operating system (Windows / Linux / Mac)
+1–2GB free storage
+Optional GPU support
+Preprocessing script / notebook
+Training and testing script / notebook
+Saved model file
+Accuracy or evaluation report
+requirements.txt file for dependencies
